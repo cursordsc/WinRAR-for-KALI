@@ -4,8 +4,11 @@ Simple Shell script to install Windows WinRAR for Kali Linux &amp; Parrot OS
 How to use? / Nasıl Kullanılır?
 ----------------------------------------
 EN//
+
 You must move the WineRAR.sh file to your home directory for this to work properly
+
 TR//
+
 Dosyanın düzgün çalışması için WineRAR.sh i /home dizinine taşımanız gerekir.
 
 For Root Users / Root Kullanıcıları İçin
