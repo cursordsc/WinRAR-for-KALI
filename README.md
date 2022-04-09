@@ -22,7 +22,7 @@ For Root Users / Root Kullanıcıları İçin
 For Non Root users / Default Kullanıcılar İçin
 ----------------------------------------
 
-    git clone https://github.com/Morsmalleo/WineRAR.git
+    git clone https://github.com/HydraDVV/WineRAR.git
     cd WineRAR
     sudo mv WineRAR.sh /home/yourusername
     sudo chmod +x WineRAR.sh && sudo ./WineRAR.sh
