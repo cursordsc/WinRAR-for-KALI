@@ -14,7 +14,7 @@ Dosyanın düzgün çalışması için WineRAR.sh i /home dizinine taşımanız 
 For Root Users / Root Kullanıcıları İçin
 ----------------------------------------
 
-    git clone https://github.com/HydraDVV/WineRAR.git
+    git clone https://github.com/HydraDVV/WinRAR-for-KALI.git
     cd WineRAR
     mv WineRAR.sh /home/yourusername
     chmod +x WineRAR && ./WineRAR.sh
@@ -22,7 +22,7 @@ For Root Users / Root Kullanıcıları İçin
 For Non Root users / Default Kullanıcılar İçin
 ----------------------------------------
 
-    git clone https://github.com/HydraDVV/WineRAR.git
+    git clone https://github.com/HydraDVV/WinRAR-for-KALI.git
     cd WineRAR
     sudo mv WineRAR.sh /home/yourusername
     sudo chmod +x WineRAR.sh && sudo ./WineRAR.sh
