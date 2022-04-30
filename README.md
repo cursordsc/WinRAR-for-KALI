@@ -15,7 +15,7 @@ For Root Users / Root Kullanıcıları İçin
 ----------------------------------------
 
     git clone https://github.com/HydraDVV/WinRAR-for-KALI.git
-    cd WineRAR
+    cd WinRAR-for-KALI
     mv WineRAR.sh /home/yourusername
     chmod +x WineRAR && ./WineRAR.sh
 
@@ -23,7 +23,7 @@ For Non Root users / Default Kullanıcılar İçin
 ----------------------------------------
 
     git clone https://github.com/HydraDVV/WinRAR-for-KALI.git
-    cd WineRAR
+    cd WinRAR-for-KALI
     sudo mv WineRAR.sh /home/yourusername
     sudo chmod +x WineRAR.sh && sudo ./WineRAR.sh
 
